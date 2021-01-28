@@ -8,7 +8,7 @@ on:
       - master
   schedule:
   
-    - cron: '30 2,11 * * *'
+    - cron: '45 2,5,11 * * *'
 
 jobs:
   build:
